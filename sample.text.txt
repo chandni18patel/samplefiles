@@ -1,3 +1,15 @@
 This is sample git push example.
 
 This is a second line.
+
+git commands intro : 
+
+git init -> one time 
+
+git add .
+
+git commit -m "message"
+
+git remote add <gitHub repo link> -> one time
+
+git push 
